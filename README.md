@@ -106,7 +106,3 @@ php exemplo.php
 - PHP 8.1+
 - Composer 2.2+
 - PHPUnit 10.5+
-
-## Autor
-
-Laboratório criado como parte do estudo de testes unitários em PHP, com foco em automação de backend e compliance fiscal.
