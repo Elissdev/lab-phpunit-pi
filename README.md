@@ -1,4 +1,4 @@
-# Laboratório de Automação de Backend com PHPUnit
+# Laboratório de Automação de Backend com PHPUnit (PI)
 
 Este laboratório demonstra a criação de uma classe de validação de nota fiscal com testes unitários usando PHPUnit, com foco em garantir regras de negócio e compliance fiscal. O exemplo implementa cálculos de impostos retidos para diferentes tipos de empresa (MEI e LTDA), além de validações de valores inválidos e tratamento de exceções.
 
